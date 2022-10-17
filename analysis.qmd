@@ -1,0 +1,13 @@
+# Shortest distance:
+
+At a glace along with the shortest path tool we can analyse that the closure of these 4 schools are merged into the schools nearest to the them which we will analyse the equity of access later on.
+
+Note that the distance between Pioneer Primary School and Juying Primary School is only around 2.2km. The distance between Farreer Park Primary school and Stamford Primary School is only around 1.95km.
+
+It's generally less than 3km between the close and the school that it's being merged into.
+
+# Buffer:
+
+From the map, we have a buffer zone with radius of 1km around the school that will be closed as we assume that it is the service area of the primary school. For the close down schools, we can analyse that these 4 schools will potentially impact 1770 residential buildings as shown in the map. With assumption of 10 units per level across 12 levels with 1 in 2 household having a child. In total, there will be
+
+https://tablebuilder.singstat.gov.sg/table/TS/M810651
