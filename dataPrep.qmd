@@ -1,6 +1,6 @@
 # Data Preparation
 
-*These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxx*
+*These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxxx*
 
 | File name                                       | Description                                                       | Source                                                                 |
 |------------------------|------------------------|------------------------|
