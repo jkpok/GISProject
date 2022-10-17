@@ -11,7 +11,7 @@
     "href": "dataPrep.html",
     "title": "GISProject",
     "section": "",
-    "text": "These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxxx\n\n\n\nFile name\nDescription\nSource\n\n\n\n\nMaster Plan 2019 Subzone Boundary (No Sea)\nPolygon layer of Singapore categorised by various sub-zones.\nhttps://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea\n\n\nOpenStreetMap - Malaysia, Singapore, and Brunei\nOpenStreetMap used to identify the roads and traffic of Singapore\nhttps://download.geofabrik.de/asia/malaysia-singapore-brunei.html"
+    "text": "These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxxx\n\n\n\nFile name\nDescription\nSource\n\n\n\n\nMaster Plan 2019 Subzone Boundary (No Sea)\nPolygon layer of Singapore categorised by various sub-zones.\nhttps://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea\n\n\nMalaysia, Singapore, and Brunei\nVector layers from Open Street map, which were used to identify the roads and traffic of Singapore\nhttps://download.geofabrik.de/asia/malaysia-singapore-brunei.html\n\n\nEducation\nA csv file containing the names of schools in Singapore and their locations\nh"
   },
   {
     "objectID": "index.html",

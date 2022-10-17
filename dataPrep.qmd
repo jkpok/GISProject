@@ -2,7 +2,8 @@
 
 *These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxxx*
 
-| File name                                  | Description                                                                                        | Source                                                                 ||------------------------|------------------------|------------------------|
+| File name                                  | Description                                                                                        | Source                                                                 |
+|------------------------|------------------------|------------------------|
 | Master Plan 2019 Subzone Boundary (No Sea) | Polygon layer of Singapore categorised by various sub-zones.                                       | <https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea> |
 | Malaysia, Singapore, and Brunei            | Vector layers from Open Street map, which were used to identify the roads and traffic of Singapore | <https://download.geofabrik.de/asia/malaysia-singapore-brunei.html>    |
-| Education                                  | A csv file containing the names of schools in Singapore and their locations                        |                                                                        |
+| Education                                  | A csv file containing the names of schools in Singapore and their locations                        | h                                                                      |
