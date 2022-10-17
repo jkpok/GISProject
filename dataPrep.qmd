@@ -1,0 +1,9 @@
+# Data Preparation
+
+*These are the list of data our team has used for this project. Do click on the respective links to download the raw data accordingly. Additionally, xxxx*
+
+| File name                                       | Description                                                       | Source                                                                 |
+|------------------------|------------------------|------------------------|
+| Master Plan 2019 Subzone Boundary (No Sea)      | Polygon layer of Singapore categorised by various sub-zones.      | <https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea> |
+| OpenStreetMap - Malaysia, Singapore, and Brunei | OpenStreetMap used to identify the roads and traffic of Singapore | <https://download.geofabrik.de/asia/malaysia-singapore-brunei.html>    |
+|                                                 |                                                                   |                                                                        |
