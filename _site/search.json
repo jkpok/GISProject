@@ -47,5 +47,12 @@
     "title": "Introduction",
     "section": "The Data",
     "text": "The Data\nThe following data sets will be used:"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "Buffer:\nFrom the map, we have a buffer zone with radius of 1km around the school that will be closed as we assume that it is the service area of the primary school. For the close down schools, we can analyse that these 4 schools will potentially impact 1770 residential buildings as shown in the map. With assumption of 10 units per level across 12 levels with 1 in 2 household having a child. In total, there will be\nhttps://tablebuilder.singstat.gov.sg/table/TS/M810651"
   }
 ]
