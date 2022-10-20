@@ -46,7 +46,7 @@
     "href": "intro.html#the-data",
     "title": "Introduction",
     "section": "The Data",
-    "text": "The Data\nThe following data sets will be used:"
+    "text": "The Data\nThe following data sets will be used:\nThe schools that closed down (the 4)"
   },
   {
     "objectID": "analysis.html",
@@ -60,6 +60,13 @@
     "href": "Methodology.html",
     "title": "GISProject",
     "section": "",
-    "text": "In order to narrow our focus on the possible roads that primary school students would utilize, we filtered the following road network: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.\nFrom the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area."
+    "text": "In order to narrow our focus on the possible roads that primary school students would utilize, we filtered and selected only the following road types: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.\nFrom the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area. The arrows denote the direction of the traffic flow which we then proceeded to use for our network analysis.\n\nTo provide a better view of the network we have hidden the OSM layer and provide the sub-zone as the backdrop."
+  },
+  {
+    "objectID": "intro.html#the-tasks",
+    "href": "intro.html#the-tasks",
+    "title": "Introduction",
+    "section": "The tasks",
+    "text": "The tasks"
   }
 ]
