@@ -1,0 +1,9 @@
+# Network preparation with QGIS\'s Styling methods
+
+![](images/WhatsApp%20Image%202022-10-20%20at%205.39.13%20PM.jpeg)
+
+In order to narrow our focus on the possible roads that primary school students would utilize, we filtered the following road network: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.
+
+From the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area.
+
+![](images/WhatsApp%20Image%202022-10-20%20at%205.39.12%20PM.jpeg)

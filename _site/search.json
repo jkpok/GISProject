@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "GIS Project",
     "section": "",
-    "text": "Daddy pok"
+    "text": "Welcome to our GIS Project web site. This is Chevy"
   },
   {
     "objectID": "intro.html",
@@ -54,5 +54,12 @@
     "title": "GISProject",
     "section": "",
     "text": "Buffer:\nFrom the map, we have a buffer zone with radius of 1km around the school that will be closed as we assume that it is the service area of the primary school. For the close down schools, we can analyse that these 4 schools will potentially impact 1770 residential buildings as shown in the map. With assumption of 10 units per level across 12 levels with 1 in 2 household having a child. In total, there will be\nhttps://tablebuilder.singstat.gov.sg/table/TS/M810651"
+  },
+  {
+    "objectID": "Methodology.html",
+    "href": "Methodology.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "In order to narrow our focus on the possible roads that primary school students would utilize, we filtered the following road network: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.\nFrom the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area."
   }
 ]
