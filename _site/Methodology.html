@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./intro.html">Introduction</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dataPrep.html">Data Preparation</a>
+    <a class="nav-link" href="./dataPrep.html">Project Proposal</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./Methodology.html" aria-current="page">Methodology</a>
@@ -121,6 +121,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#network-preparation-with-qgiss-styling-methods" id="toc-network-preparation-with-qgiss-styling-methods" class="nav-link active" data-scroll-target="#network-preparation-with-qgiss-styling-methods">Network preparation with QGIS’s Styling methods</a></li>
+  <li><a href="#creating-matrix-table-for-accessibility-map" id="toc-creating-matrix-table-for-accessibility-map" class="nav-link" data-scroll-target="#creating-matrix-table-for-accessibility-map">Creating matrix table for accessibility map</a></li>
   </ul>
 </nav>
     </div>
@@ -136,6 +137,11 @@ ul.task-list li input[type="checkbox"] {
 <p>From the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area. The arrows denote the direction of the traffic flow which we then proceeded to use for our network analysis.</p>
 <p><img src="images/WhatsApp%20Image%202022-10-20%20at%205.39.12%20PM.jpeg" class="img-fluid"></p>
 <p>To provide a better view of the network we have hidden the OSM layer and provide the sub-zone as the backdrop.</p>
+</section>
+<section id="creating-matrix-table-for-accessibility-map" class="level1">
+<h1>Creating matrix table for accessibility map</h1>
+<p>In order to create the choropleth accessibility map of schools, we first needed to create a hexagon grid covering the whole island of Singapore. Centroids of these hexagons were then generated.</p>
+<p>Next, we used the QNEAT3 plugin’s “OD Matrix Layers as Table (m:n)” function with the following inputs: point locations of the schools, centroid layer, and roads layers. This was an extremely taxing calculation which lasted 3 hours each time we ran it, totaling to 6 hours spent just running the function as we ran it twice. The first time it was ran to find the distances from all centroids to all schools <strong>before</strong> the closure, and the second time was for the distances from all centroids to all schools <strong>after</strong> the closure</p>
 
 
 </section>

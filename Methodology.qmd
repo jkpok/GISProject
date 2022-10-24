@@ -9,3 +9,9 @@ From the map layout above, we have selected an area which consist of a closed an
 ![](images/WhatsApp%20Image%202022-10-20%20at%205.39.12%20PM.jpeg)
 
 To provide a better view of the network we have hidden the OSM layer and provide the sub-zone as the backdrop.
+
+# Creating matrix table for accessibility map
+
+In order to create the choropleth accessibility map of schools, we first needed to create a hexagon grid covering the whole island of Singapore. Centroids of these hexagons were then generated.
+
+Next, we used the QNEAT3 plugin's "OD Matrix Layers as Table (m:n)" function with the following inputs: point locations of the schools, centroid layer, and roads layers. This was an extremely taxing calculation which lasted 3 hours each time we ran it, totaling to 6 hours spent just running the function as we ran it twice. The first time it was ran to find the distances from all centroids to all schools **before** the closure, and the second time was for the distances from all centroids to all schools **after** the closure
