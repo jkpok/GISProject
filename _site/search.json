@@ -7,6 +7,13 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "Buffer:\nFrom the map, we have a buffer zone with radius of 1km around the school that will be closed as we assume that it is the service area of the primary school. For the close down schools, we can analyse that these 4 schools will potentially impact 1770 residential buildings as shown in the map. With assumption of 10 units per level across 12 levels with 1 in 2 household having a child. In total, there will be\nhttps://tablebuilder.singstat.gov.sg/table/TS/M810651\n\n\nBuffer:\n\n\nThe map above shows the accessibility of schools in Singapore currently, before the closure. The denser the color (dark red), the shorter the travel distance between the points in Singapore to their nearest Primary Schools. The map shows that the majority of Singapore Primary Schools are highly accessible. There are some areas that are completely white/ inaccessible such as the North-Western planning area of Lim Chu Kang and Western planning areas of Pioneer and Tuas. However, they are inconsequential as they are not residential but rather industrial areas thus it explains the inaccessibility.\nThe lighter the color (dark, the shorter the travel distance between the points in Singapore to their nearest Primary Schools.\nimpact of closures or mergers of education institutions on equity of access. As we\n\nThe map above shows the areas of Singapore which will be by the school The map above shows impact of closures or mergers of education institutions on equity of access. As we\n\n\nService area using Vornoi:\n\nTo further compliment our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify difference between the flying distance to validate our Choropleth map analysis of the number of residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly.\n\nBefore the 4 schools close down, we have identified 4 areas that will potentially changed due to the closure as that the voronoi shape cause the color density to be lighten.\n\nAfter the closure the 4 schools, we can delineate that the shape of the voronoi shape have changed causing the color to tone down. One example is towards the south of Singapore, Stamford Primary School have been closed down which explains the shift in the voronoi being lighter. Causing the voronoi that serve both Cantonment Primary School and Farrer park Primary School density to be changed.\nThis analysis aligns with the insights we gained from the choropleth map whereby the hexagon for Stamford Primary School the south have tone down in the density XX the desnity of …. changed"
+  },
+  {
     "objectID": "dataPrep.html",
     "href": "dataPrep.html",
     "title": "GISProject",
@@ -28,11 +35,11 @@
     "text": "This is"
   },
   {
-    "objectID": "intro.html#the-task",
-    "href": "intro.html#the-task",
+    "objectID": "intro.html#the-tasks",
+    "href": "intro.html#the-tasks",
     "title": "Introduction",
-    "section": "The task",
-    "text": "The task"
+    "section": "The tasks",
+    "text": "The tasks"
   },
   {
     "objectID": "intro.html#project-tasks_",
@@ -49,24 +56,10 @@
     "text": "The Data\nThe following data sets will be used:\nThe schools that closed down (the 4)"
   },
   {
-    "objectID": "analysis.html",
-    "href": "analysis.html",
-    "title": "GISProject",
-    "section": "",
-    "text": "Buffer:\nFrom the map, we have a buffer zone with radius of 1km around the school that will be closed as we assume that it is the service area of the primary school. For the close down schools, we can analyse that these 4 schools will potentially impact 1770 residential buildings as shown in the map. With assumption of 10 units per level across 12 levels with 1 in 2 household having a child. In total, there will be\nhttps://tablebuilder.singstat.gov.sg/table/TS/M810651\n\n\nBuffer:\n\n\nThe map above shows the accessibility of schools in Singapore currently, before the closure. The denser the color (dark red), the shorter the travel distance between the points in Singapore to their nearest Primary Schools. The map shows that the majority of Singapore Primary Schools are highly accessible. There are some areas that are completely white/ inaccessible such as the North-Western planning area of Lim Chu Kang and Western planning areas of Pioneer and Tuas. However, they are inconsequential as they are not residential but rather industrial areas thus it explains the inaccessibility.\nThe lighter the color (dark, the shorter the travel distance between the points in Singapore to their nearest Primary Schools.\nimpact of closures or mergers of education institutions on equity of access. As we\n\nThe map above shows the areas of Singapore which will be by the school The map above shows impact of closures or mergers of education institutions on equity of access. As we\n\n\nService area using Vornoi:\n\nTo further compliment our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify difference between the flying distance to validate our Choropleth map analysis of the number of residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly.\n\nBefore the 4 schools close down, we have identified 4 areas that will potentially changed due to the closure as that the voronoi shape cause the color density to be lighten.\n\nAfter the closure the 4 schools, we can delineate that the shape of the voronoi shape have changed causing the color to tone down. One example is towards the south of Singapore, Stamford Primary School have been closed down which explains the shift in the voronoi being lighter. Causing the voronoi that serve both Cantonment Primary School and Farrer park Primary School density to be changed.\nThis analysis aligns with the insights we gained from the choropleth map whereby the hexagon for Stamford Primary School the south have tone down in the density XX the desnity of …. changed"
-  },
-  {
     "objectID": "Methodology.html",
     "href": "Methodology.html",
     "title": "GISProject",
     "section": "",
     "text": "In order to narrow our focus on the possible roads that primary school students would utilize, we filtered and selected only the following road types: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.\nFrom the map layout above, we have selected an area which consist of a closed and a merge school along with other schools that is within the area. The arrows denote the direction of the traffic flow which we then proceeded to use for our network analysis.\n\nTo provide a better view of the network we have hidden the OSM layer and provide the sub-zone as the backdrop."
-  },
-  {
-    "objectID": "intro.html#the-tasks",
-    "href": "intro.html#the-tasks",
-    "title": "Introduction",
-    "section": "The tasks",
-    "text": "The tasks"
   }
 ]
