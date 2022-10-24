@@ -15,6 +15,8 @@ website:
         text: Analysis
       - href: finding.qmd
         text: Results & Discussion
+      - href: lesson.qmd
+        text: Lesson Learned
     right:
       - href: index.qmd
         text: Home
