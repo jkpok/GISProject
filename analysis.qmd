@@ -24,11 +24,11 @@ Notice that there are 4 yellow icons for the closed school, we will monitor the 
 ![](images/paste-E557B84F.png)
 After closure of the 4 schools, within the **yellow circle** towards the west, the closure of Pioneer Primary School have cause the color density to decreased suggesting that the points in Singapore and the residents in western planning area such as Jurong West. They will have to travel further to a primary school which hence decreases the accessibility as they will have to travel a longer distance to school. Similarly, for the yellow circle towards the south, the closure of Stamford Primary School have caused the color density to decrease and decreases their accessibility too these affect planning area like Rochor.
 
-![](images/photo_6248838564691424288_w.jpg){width="281"}
+![](images/photo_6248838564691424288_w.jpg){width="239"}
 
-![](images/photo_6248838564691424289_w.jpg){width="191"}
+![](images/photo_6248838564691424289_w.jpg){width="242"}
 
-Before school closuressssss
+Before school closuressssssss
 
 Al, compared to Guangyang Primary School and Eunos Primary School, we notice that the
 
