@@ -3,9 +3,14 @@ title: "Introduction"
 editor: visual
 ---
 
-## Overview
+# Overview
 
-This is
+## 
+Theme 2: Geography of Accessibility with GIS-based Network Analysis
+
+-   Sub-theme 1: Impact of closures or mergers of education institutions on equity of access.
+
+For this project we will be looking at the impact of closures or mergers of education institutions on equity of access.
 
 ## The tasks
 
@@ -25,13 +30,19 @@ The schools that closed down (the 4)
 
 # Closed School
 
-Eunos Primary School (Merge with Telok Kurau Primary School)
+Due to low birth rate (url)
 
-Guangyang Primary School (Townsville Primary School)
+Based on the Geographic Distribution, we are able derive from ....
 
-Pioneer Primary School (Merge with Juying Primary School but Pioneer name is retained)
+## These are the schools that will be closed latest  by 2025:
 
-Stamford Primary School (Farrer Park Primary School)
+-   Eunos Primary School (Merge with Telok Kurau Primary School)
+
+-   Guangyang Primary School (Townsville Primary School)
+
+-   Pioneer Primary School (Merge with Juying Primary School but Pioneer name is retained)
+
+-   Stamford Primary School (Farrer Park Primary School)
 
 # Merged School
 
