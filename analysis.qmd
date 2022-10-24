@@ -16,18 +16,25 @@ https://tablebuilder.singstat.gov.sg/table/TS/M810651
 
 ![](images/acc.gif)
 
-![](images/Accessibility_Primary_Before.png)
+The gif above shows the change of accessibility before and after the closure of the 4 primary schools. Upon further analysis, we notice that that the southern subzone has turned to a lighter shade which indicates that residents of that area would have to travel further assuming they would commute to the nearest school. Besides this, let us compare further between the before and after. ![](https://lh5.googleusercontent.com/ehXoH0mB4-sffVd-Du37Bh5i3crb8YHwPGs6pRntIvNJB8FrkJd2KgT6lA_5EbCl_X2juoKduUgbraw0AfIUL2UHWlx9d4UALAuamI63w7UWv2cuK8RJFSmc2CckbEuySRWjDjR8VJVMMEWPwjZXUH6XbUwbxIFlJUw01oei6XJ5F12P6SMp7RATbmHs) The map above shows the accessibility of schools in Singapore currently, before the closure. The denser the color (dark green), will indicate the shorter the travel distance between the points in Singapore to their nearest Primary Schools. The map shows that the majority of Singapore Primary Schools are highly accessible. There are some areas that are completely white/ inaccessible such as those **circle in green** namely the North-Western planning area of Lim Chu Kang, Western planning areas of Pioneer and Tuas. However, they are inconsequential as they are not residential but rather industrial areas thus it explains the inaccessibility (we will go into more detailed on the residential population in the later section section later).
 
-The map above shows the accessibility of schools in Singapore currently, before the closure. The denser the color (dark red), the shorter the travel distance between the points in Singapore to their nearest Primary Schools. The map shows that the majority of Singapore Primary Schools are highly accessible. There are some areas that are completely white/ inaccessible such as the North-Western planning area of Lim Chu Kang and Western planning areas of Pioneer and Tuas. However, they are inconsequential as they are not residential but rather industrial areas thus it explains the inaccessibility.
+Notice that there are 4 yellow icons for the closed school, we will monitor the difference especially those in the **yellow circle** to see how the closure of these school affects the equity of access. ![](images/paste-E557B84F.png) After closure of the 4 schools, within the **yellow circle** towards the west, the closure of Pioneer Primary School have cause the color density to decreased suggesting that the points in Singapore and the residents in western planning area such as Jurong West. They will have to travel further to a primary school which hence decreases the accessibility as they will have to travel a longer distance to school. Similarly, for the yellow circle towards the south, the closure of Stamford Primary School have caused the color density to decrease and decreases their accessibility too these affect planning area like Rochor.
+
+![](images/photo_6248838564691424288_w.jpg){width="281"}
+
+![](images/photo_6248838564691424289_w.jpg){width="191"}
+
+Before school closuressssssszz
+
+Al, compared to Guangyang Primary School and Eunos Primary School, we notice that the
+
+The map above shows impact of closures or mergers of education institutions on equity of access. As we.
 
 The lighter the color (dark, the shorter the travel distance between the points in Singapore to their nearest Primary Schools.
 
 impact of closures or mergers of education institutions on equity of access. As we
 
-![](images/Accessibility_Primary_After.png)
-
 The map above shows the areas of Singapore which will be by the school
-The map above shows impact of closures or mergers of education institutions on equity of access. As we
 
 # Service area using Vornoi:
 
