@@ -7,7 +7,7 @@ editor: visual
 
 This is
 
-## The task
+## The tasks
 
 ## Project Tasks\_
 
@@ -20,3 +20,25 @@ The project tasks are as follows:
 ## The Data
 
 The following data sets will be used:
+
+The schools that closed down (the 4)
+
+# Closed School
+
+Eunos Primary School (Merge with Telok Kurau Primary School)
+
+Guangyang Primary School (Townsville Primary School)
+
+Pioneer Primary School (Merge with Juying Primary School but Pioneer name is retained)
+
+Stamford Primary School (Farrer Park Primary School)
+
+# Merged School
+
+Farrer Park Primary School
+
+Juying Primary School
+
+Telok Kurau Primary School
+
+Townsville Primary School

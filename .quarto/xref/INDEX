@@ -10,5 +10,11 @@
   },
   "dataPrep.qmd": {
     "dataPrep.html": "c258b04f"
+  },
+  "analysis.qmd": {
+    "analysis.html": "459da003"
+  },
+  "Methodology.qmd": {
+    "Methodology.html": "0cbc01bf"
   }
 }
