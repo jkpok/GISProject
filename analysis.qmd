@@ -14,7 +14,7 @@ https://tablebuilder.singstat.gov.sg/table/TS/M810651
 
 ![](images/gifTest.gif)
 
-To further compliment our previous analysis with the Choropleth Map (shortest distance), we have used the Voronoi to identify difference between the **flying distance to validate our** Choropleth map analysis of the number of residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly.
+To further compliment our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify difference between the **flying distance to validate our** Choropleth map analysis of the number of residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly.
 
 ![](images/WhatsApp%20Image%202022-10-20%20at%207.51.23%20PM.jpeg)
 
