@@ -1,4 +1,4 @@
-# Network preparation with QGIS\'s Styling methods
+# Network preparation with QGIS's Styling methods
 
 ![](images/WhatsApp%20Image%202022-10-20%20at%205.39.13%20PM.jpeg)
 

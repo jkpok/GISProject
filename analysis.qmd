@@ -12,6 +12,25 @@ From the map, we have a buffer zone with radius of 1km around the school that wi
 
 https://tablebuilder.singstat.gov.sg/table/TS/M810651
 
+# Buffer:
+
+![](images/acc.gif)
+
+![](images/Accessibility_Primary_Before.png)
+
+The map above shows the accessibility of schools in Singapore currently, before the closure. The denser the color (dark red), the shorter the travel distance between the points in Singapore to their nearest Primary Schools. The map shows that the majority of Singapore Primary Schools are highly accessible. There are some areas that are completely white/ inaccessible such as the North-Western planning area of Lim Chu Kang and Western planning areas of Pioneer and Tuas. However, they are inconsequential as they are not residential but rather industrial areas thus it explains the inaccessibility.
+
+The lighter the color (dark, the shorter the travel distance between the points in Singapore to their nearest Primary Schools.
+
+impact of closures or mergers of education institutions on equity of access. As we
+
+![](images/Accessibility_Primary_After.png)
+
+The map above shows the areas of Singapore which will be by the school
+The map above shows impact of closures or mergers of education institutions on equity of access. As we
+
+# Service area using Vornoi:
+
 ![](images/gifTest.gif)
 
 To further compliment our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify difference between the **flying distance to validate our** Choropleth map analysis of the number of residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly.
