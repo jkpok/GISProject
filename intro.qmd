@@ -6,6 +6,7 @@ editor: visual
 # Overview
 
 ## 
+
 Theme 2: Geography of Accessibility with GIS-based Network Analysis
 
 -   Sub-theme 1: Impact of closures or mergers of education institutions on equity of access.
@@ -34,7 +35,7 @@ Due to low birth rate (url)
 
 Based on the Geographic Distribution, we are able derive from ....
 
-## These are the schools that will be closed latest  by 2025:
+## These are the schools that will be closed latest by 2025:
 
 -   Eunos Primary School (Merge with Telok Kurau Primary School)
 
