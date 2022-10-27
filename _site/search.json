@@ -54,5 +54,33 @@
     "title": "GISProject",
     "section": "",
     "text": "Creating matrix table for accessibility map\nIn order to create the choropleth accessibility map of schools, we first needed to create a hexagon grid covering the whole island of Singapore. Centroids of these hexagons were then generated.\nNext, we used the QNEAT3 plugin’s “OD Matrix Layers as Table (m:n)” function with the following inputs: point locations of the schools, centroid layer, and roads layers. This was an extremely taxing calculation which lasted 3 hours each time we ran it, totaling to 6 hours spent just running the function as we ran it twice. The first time it was ran to find the distances from all centroids to all schools before the closure, and the second time was for the distances from all centroids to all schools after the closure"
+  },
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "XX"
+  },
+  {
+    "objectID": "proposal.html#task-a-report-materials",
+    "href": "proposal.html#task-a-report-materials",
+    "title": "GISProject",
+    "section": "Task A: Report materials",
+    "text": "Task A: Report materials\n\n\n\nTheme\nPerson in Charge\n\n\n\n\nSchool closure for Primary School\nChevy, Swinnerton\n\n\nSchool closure for Junior College\nChevy, Andrew\n\n\nRoad network\nChevy, Swinnerton"
+  },
+  {
+    "objectID": "proposal.html#task-b-map-analysis",
+    "href": "proposal.html#task-b-map-analysis",
+    "title": "GISProject",
+    "section": "Task B: Map Analysis",
+    "text": "Task B: Map Analysis\n\n\n\nTheme\nPerson in Charge\n\n\n\n\nSchool closure for Primary School\nChevy, Swinnerton\n\n\nSchool closure for Junior College\nChevy, Andrew\n\n\nRoad network\nChevy, Swinnerton"
+  },
+  {
+    "objectID": "proposal.html#task-b-other-miscellaneous-work",
+    "href": "proposal.html#task-b-other-miscellaneous-work",
+    "title": "GISProject",
+    "section": "Task B: Other Miscellaneous Work",
+    "text": "Task B: Other Miscellaneous Work\n\n\n\nTheme\nPerson in Charge\n\n\n\n\nPoster\nChevy, Swinnerton, Andrew\n\n\nWebsite\nChevy, Swinnerton, Andrew\n\n\nQGIS, Report clean up\nChevy, Swinnerton, Andrew\n\n\nPoster clean up\nChevy, Swinnerton, Andrew\n\n\nMetadata\nChevy, Swinnerton, Andrew"
   }
 ]

@@ -1,0 +1,32 @@
+XX
+
+# Project Timeline
+![](https://lh3.googleusercontent.com/KyeO58ZhF5IocQxx8sudV0I6VOTeYURhjCaQ_Hgy1fIP1Ont7IddmJWJEgEISJg3PQPk7zxJIqWPbYHgKx-sxMXEbqqIlDcACj06pgi6uOmub32IjMnEUOAPQ0WZ_EC34brLm-EFhCVRj0V7n5JarAbUog0RGVw43MGTH5eH6wviQkXOC_khC4KHlQ)
+
+Delegation of work
+
+## Task A: Report materials
+
+| Theme                             | Person in Charge  |
+|-----------------------------------|-------------------|
+| School closure for Primary School | Chevy, Swinnerton |
+| School closure for Junior College | Chevy, Andrew     |
+| Road network                      | Chevy, Swinnerton |
+
+## Task B: Map Analysis
+
+| Theme                             | Person in Charge  |
+|-----------------------------------|-------------------|
+| School closure for Primary School | Chevy, Swinnerton |
+| School closure for Junior College | Chevy, Andrew     |
+| Road network                      | Chevy, Swinnerton |
+
+## Task B: Other Miscellaneous Work
+
+| Theme                 | Person in Charge          |
+|-----------------------|---------------------------|
+| Poster                | Chevy, Swinnerton, Andrew |
+| Website               | Chevy, Swinnerton, Andrew |
+| QGIS, Report clean up | Chevy, Swinnerton, Andrew |
+| Poster clean up       | Chevy, Swinnerton, Andrew |
+| Metadata              | Chevy, Swinnerton, Andrew |
