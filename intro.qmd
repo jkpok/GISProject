@@ -3,13 +3,63 @@ title: "Introduction"
 editor: visual
 ---
 
-# Overview
+# Introduction
 
-## 
+**Chosen topic**
 
 Theme 2: Geography of Accessibility with GIS-based Network Analysis
 
 -   Sub-theme 1: Impact of closures or mergers of education institutions on equity of access.
+
+## 1. Introduction & Project Motivation	
+
+### 1.1 General Information on the Closure and Merger of Primary School and Junior College (JC)
+
+Singapore is widely known for its people having the 2nd highest IQ population in the world \<Citation\>. In recent years, due to an increase in the standard of living and quality of life in Singapore, and with the pressure of inflation that has affected people all around the world, the cost of living has been increasing significantly and this has caused many Singaporeans to avoid having offspring which caused Singapore\'s population to decline. 
+
+Therefore, with a decline in birth rate and a decrease in the population size for younger generations between the age of 0 to 6, the Ministry of Education of Singapore released a statement in 2018 that there will be 22 primary schools and xxxx JC that will either be merged or closed between 2018 to 2025 \<Citation\>. This is to ensure that the resources that the Ministry of Education have deployed will not be under-utilized while all students in primary schools will still have equal and high-quality access to education.
+
+\
+
+### 1.2 Project Motivation
+
+Singapore has long been regarded as a success story about a small island without natural resources turned world-class metropolis in one generation. However despite the boon we experienced, or perhaps because of it, the birthrate has been declining to the extent where schools have to be closed. Our team is incredibly concerned about the consequences of Singapore's low birthrate which thus, led us to assess the impact of closures or mergers of education institutions on equity of access.
+
+### 1.3 Project Objective
+
+To determine and measure the impact of closures/merges of primary schools and JC in Singapore from 2018 to 2025 towards Primary School and JC students and the equity of access to the remaining Primary Schools and JC in Singapore. 
+
+\
+
+### 1.4 Scope of Work
+
+| **Theme**                                                              | **Person in Charge**      |
+|------------------------------------------------------------------------|---------------------------|
+| Selection of project focus and conducting literature review            | Chevy, Swinnerton, Andrew |
+| Preparing proposal and project website                                 | Chevy, Swinnerton, Andrew |
+| Data collection, extraction, integration, transformation and wrangling | Chevy, Swinnerton, Andrew |
+| Designing and building GIS model and database                          | Chevy, Swinnerton, Andrew |
+| Performing GIS analysis                                                | Chevy, Swinnerton, Andrew |
+| Preparing poster and project webpage.                                  | Chevy, Swinnerton, Andrew |
+
+ 
+
+Others
+
+| **Theme**                         | **Person in Charge**      |
+|-----------------------------------|---------------------------|
+| School closure for Primary School | Chevy, Swinnerton         |
+| School closure for Junior College | Chevy, Andrew             |
+| Road network                      | Chevy, Swinnerton         |
+| QGIS, Report clean up             | Chevy, Swinnerton, Andrew |
+| Poster clean up                   | Chevy, Swinnerton, Andrew |
+| Metadata                          | Chevy, Swinnerton, Andrew |
+
+### 1.5 Project schedule
+
+![](https://lh6.googleusercontent.com/Adivn1Ow5oWBEt7qfINfhUUFzglU6RkSRGMyhS1zE2p0ld6_xqS5C4JqTd2phtJZNfF1k95n3edCO4-Gc7QWdbqJ57i7zh-FAmzK1-tUDTDAxupmKqFcf5krGMX50qt3PlNL98a-C3Gm1CHJ7gDUPbKDeHCuuq4JOL9gPJ_jROu1MLIIrPm9Y1FViw)
+
+\
 
 For this project we will be looking at the impact of closures or mergers of education institutions on equity of access.
 
