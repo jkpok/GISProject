@@ -1,5 +1,27 @@
 # Network preparation with QGIS's Styling methods
 
+## Methodology, detailed discussions of the GIS Analysis process and functions used
+
+[**Creating a Grid (Hexagon) using Singapore\'s MP19 Subzone No Sea**]{.underline}
+
+For our team\'s network analysis, we have developed a grid using a hexagon shape which covers Singapore\'s subzone at 500m by 500m. For each hexagon, it will be utilized to depict the shortest distance to reach the nearest Primary School and JC. The shorter the distance, and if it falls under the category of a shorter distance (e.g., 0 to 100m) that is classified using Symbology, the denser the colour (e.g., Green) which will be highlighted on the hexagon. 
+
+[**Creating a centroid for each hexagon present in Singapore\'s Subzones**]{.underline}
+
+Using the hexagon grid that is developed based on Singapore\'s subzones, a centroid will be generated for each hexagon to depict the centre point. This centroid will eventually be utilized to determine the distance of each individual Primary School and JC in Singapore.
+
+[**Filtering out specific roads for network analysis**]{.underline}
+
+The first impact that came to mind was the potential increase in travel time for students to reach their school. However we realised that not all roads in Singapore would be utilised as students would likely live close by, thus we used the \"select features using expression\" function and only selected the following roads: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.
+
+[**Filtering out the existing Primary Schools and JC in Singapore**]{.underline}
+
+As our group is performing the network analysis for Primary Schools and JC in Singapore, we will be filtering out Primary Schools and JC in Singapore and excluding the other schools that do not fall under the category that meets the criteria. 
+
+[**Filtering out the Primary Schools and JC that will be affected by the closure or merger**]{.underline}
+
+For this section, as our sub-theme solely focuses on the closure and merger of schools in Singapore, and with our group\'s goal to focus on Primary Schools and JC, apart from filtering out all Primary Schools and JC in Singapore, we will also be filtering out schools that will be closing soon and there will be 2 point layers where one will depict all primary schools before the arrangement to close the 22 primary schools, JC, and another layer will depict the Primary schools and JC that are still available even after the closure of the schools. 
+
 ![](images/WhatsApp%20Image%202022-10-20%20at%205.39.13%20PM.jpeg)
 
 In order to narrow our focus on the possible roads that primary school students would utilize, we filtered and selected only the following road types: motorway, motorway_link, primary, primary_link, secondary, secondary_link, tertiary, tertiary_link, residential, trunk and trunk_link.
