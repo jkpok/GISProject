@@ -97,6 +97,9 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./report.pdf">Report</a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./references.html">References</a>
+  </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -138,10 +141,10 @@ ul.task-list li input[type="checkbox"] {
 <p>As our group is performing the network analysis for Primary Schools and JC in Singapore, we will be filtering out Primary Schools and JC in Singapore and excluding the other schools that do not fall under the category that meets the criteria.&nbsp;</p>
 <p><u><strong>Filtering out the Primary Schools and JC that will be affected by the closure or merger</strong></u></p>
 <p>For this section, as our sub-theme solely focuses on the closure and merger of schools in Singapore, and with our group’s goal to focus on Primary Schools and JC, apart from filtering out all Primary Schools and JC in Singapore, we will also be filtering out schools that will be closing soon and there will be 2 point layers where one will depict all primary schools before the arrangement to close the 22 primary schools, JC, and another layer will depict the Primary schools and JC that are still available even after the closure of the schools.&nbsp;</p>
-<p><strong>Creating matrix table for accessibility map</strong></p>
+<p><u><strong>Creating matrix table for accessibility map</strong></u></p>
 <p>In order to create the choropleth accessibility map of schools, we first needed to create a hexagon grid covering the whole island of Singapore. Centroids of these hexagons were then generated.</p>
 <p>Next, we used the QNEAT3 plugin’s “OD Matrix Layers as Table (m:n)” function with the following inputs: point locations of the schools, centroid layer, and roads layers. This was an extremely taxing calculation which lasted 3 hours each time we ran it, totaling to 6 hours spent just running the function as we ran it twice. The first time it was ran to find the distances from all centroids to all schools <strong>before</strong> the closure, and the second time was for the distances from all centroids to all schools <strong>after</strong> the closure</p>
-<p><strong>Filtering out shortest distances</strong></p>
+<p><u><strong>Filtering out shortest distances</strong></u></p>
 <p>After the matrices were obtained, we had to filter out the shortest distances as the matrices contained all the possible ways to get to the destination. We accomplished this by using the execute SQL function.</p>
 
 

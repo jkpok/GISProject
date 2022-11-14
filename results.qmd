@@ -42,7 +42,7 @@ After the closure of the primary schools, we can delineate that the shape of the
 
 Junior Colleges Result
 
-Accessibility of Junior Colleges: ![](images/JC_gif.gif)
+# Accessibility of Junior Colleges: ![](images/JC_gif.gif)
 
 Moving onto the analysis of the impact of Junior Colleges(JC), similar to the primary schools, the gif above shows the change in accessibility before and after the closures of the 6 JCs. Immediately, we notice that a significant amount of areas have turned to a lighter shade, indicating that students who are residents of that area would now have to travel further to the next nearest JC. Additionally, the areas that are most heavily impacted are the northern and western residential areas such as Woodlands and Jurong West. Let us now analyse each map in closer detail.  
 

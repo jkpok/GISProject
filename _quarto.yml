@@ -17,6 +17,8 @@ website:
         text: Poster
       - href: report.pdf
         text: Report
+      - href: references.qmd
+        text: References
 
 
 format:
