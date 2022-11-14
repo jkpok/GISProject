@@ -34,7 +34,7 @@ To further complement our previous analysis with the Choropleth Map (shortest di
 
 After the closure of the primary schools, we can delineate that the shape of the Voronoi Polygon shape has shifted and changed, causing the colour to tone down as the nearby schools have taken up the count of residences to service those that are affected and the total count of residential buildings that were once assumed to be serviced by the closed school would be split up and becomes reassigned with the next nearest existing Primary School and it will be assigned to that Voronoi Polygon of the nearest school. One example is towards the central/ southern of Singapore, Stamford Primary School has been closed down which explains the shift in the Voronoi Polygon being lighter, causing the Voronoi Polygon that serves both Cantonment Primary School and Farrer Park Primary School density to be changed.
 
-#  Junior Colleges Result
+# Junior Colleges Result
 
 ### Accessibility: ![](images/JC_gif.gif)
 
