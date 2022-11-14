@@ -1,4 +1,4 @@
-### Results and Findings
+# Results and Findings
 
 Primary School Results
 
@@ -34,15 +34,17 @@ In addition, if we try to deduce why some primary schools close down, we can tak
 
 ### Service area using Voronoi Polygon:
 
-To further complement our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify the difference between the flying distance to validate our Choropleth map analysis of the number of the residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly. The Voronoi polygons delineate the areas which each school would most likely service as any point within the area of a certain school would have that school as the closest one in terms of flying distance.![](images/WhatsApp%20Image%202022-11-14%20at%2021.32.35.jpeg)Before the primary schools close down, we identified 4 areas that are circled in green that will potentially change due to the closure and it will cause the Voronoi Polygon to shift or change and even cause the colour density to lighten. 
+To further complement our previous analysis with the Choropleth Map (shortest distance), we have used Voronoi polygons to identify the difference between the flying distance to validate our Choropleth map analysis of the number of the residential building serviced before and after the closure of the primary schools. We will now look into each of them shortly. The Voronoi polygons delineate the areas which each school would most likely service as any point within the area of a certain school would have that school as the closest one in terms of flying distance.![](images/voronoi_before.jpeg)Before the primary schools close down, we identified 4 areas that are circled in green that will potentially change due to the closure and it will cause the Voronoi Polygon to shift or change and even cause the colour density to lighten. 
 
-![](images/WhatsApp%20Image%202022-11-14%20at%2021.32.3402.jpeg)
+![](images/voronoi_after.jpeg)
 
 After the closure of the primary schools, we can delineate that the shape of the Voronoi Polygon shape has shifted and changed, causing the colour to tone down as the nearby schools have taken up the count of residences to service those that are affected and the total count of residential buildings that were once assumed to be serviced by the closed school would be split up and becomes reassigned with the next nearest existing Primary School and it will be assigned to that Voronoi Polygon of the nearest school. One example is towards the central/ southern of Singapore, Stamford Primary School has been closed down which explains the shift in the Voronoi Polygon being lighter, causing the Voronoi Polygon that serves both Cantonment Primary School and Farrer Park Primary School density to be changed.
 
 Junior Colleges Result
 
-# Accessibility of Junior Colleges: ![](images/JC_gif.gif)
+# Accessibility of Junior Colleges: 
+
+![](images/JC_gif.gif)
 
 Moving onto the analysis of the impact of Junior Colleges(JC), similar to the primary schools, the gif above shows the change in accessibility before and after the closures of the 6 JCs. Immediately, we notice that a significant amount of areas have turned to a lighter shade, indicating that students who are residents of that area would now have to travel further to the next nearest JC. Additionally, the areas that are most heavily impacted are the northern and western residential areas such as Woodlands and Jurong West. Let us now analyse each map in closer detail.  
 
