@@ -17,7 +17,7 @@ QGIS project link: [SMT_Group5 (Final).zip](https://smu-my.sharepoint.com/:u:/g/
 
 ## 1.1 General Information on the Closure and Merger of Primary School and Junior College (JC)
 
-Singapore is widely known for its people having the 2nd highest IQ population in the world (Worlddata.info, n.d.). In recent years, due to an increase in the standard of living and quality of life in Singapore, and with the pressure of inflation that has affected people all around the world, the cost of living has been increasing significantly and this has caused many Singaporeans to avoid having offspring which caused Singapore\'s population to decline. 
+Singapore is widely known for its people having the 2nd highest IQ population in the world (Worlddata.info, n.d.). In recent years, due to an increase in the standard of living and quality of life in Singapore, and with the pressure of inflation that has affected people all around the world, the cost of living has been increasing significantly and this has caused many Singaporeans to avoid having offspring which caused Singapore's population to decline. 
 
 Therefore, with a decline in birth rate and a decrease in the population size for younger generations between the age of 0 to 6, the Ministry of Education of Singapore released a statement in 2018 that there will be 11 primary schools and 6 JC that will be closed between 2018 to 2025 as per our data preparation link (Ministry of Education Singapore, 2022). This is to ensure that the resources that the Ministry of Education have deployed will not be under-utilized while all students in primary schools will still have equal and high-quality access to education.
 
@@ -127,4 +127,3 @@ Others
 ## 1.6 Project schedule
 
 ![](images/WhatsApp%20Image%202022-10-24%20at%2018.25.37.jpeg)\
-
