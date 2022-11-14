@@ -3,8 +3,6 @@ title: "Introduction"
 editor: visual
 ---
 
-# Introduction
-
 **Chosen topic**
 
 Theme 2: Geography of Accessibility with GIS-based Network Analysis
