@@ -6,8 +6,6 @@ website:
   navbar:
     left:
       - href: intro.qmd
-        text: Introduction
-      - href: dataPrep.qmd
         text: Project Proposal
       - href: Methodology.qmd
         text: Methodology

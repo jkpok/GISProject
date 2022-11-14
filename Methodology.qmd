@@ -22,7 +22,7 @@ As our group is performing the network analysis for Primary Schools and JC in Si
 
 For this section, as our sub-theme solely focuses on the closure and merger of schools in Singapore, and with our group's goal to focus on Primary Schools and JC, apart from filtering out all Primary Schools and JC in Singapore, we will also be filtering out schools that will be closing soon and there will be 2 point layers where one will depict all primary schools before the arrangement to close the 22 primary schools, JC, and another layer will depict the Primary schools and JC that are still available even after the closure of the schools. 
 
-# Creating matrix table for accessibility map
+**Creating matrix table for accessibility map**
 
 In order to create the choropleth accessibility map of schools, we first needed to create a hexagon grid covering the whole island of Singapore. Centroids of these hexagons were then generated.
 

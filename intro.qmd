@@ -63,7 +63,7 @@ Singapore has long been regarded as a success story about a small island without
 
 The chart below shows us that the number of primary schools has more than halved since 1990, which is incredibly concerning news.
 
-![](https://lh4.googleusercontent.com/YNRnNo8R83QxqkwJlhR1tExhqsEr5UzPOOgcE-qleLK6Y4_dsvBDQiNNsj6Qx-sE13AQgrDiUZFP2LZpjl2cnPXMwhK5VY_j-VI_Lxbmctx71dr822QM_T1EfLUY8lvk-eRVjOcKf6B_VvTjSIzKNfZ4CWzrzH__ZLK79bqumeUjqDqb4csLVIo4FOdDmQ)
+![](images/statistic_id865443_number-of-primary-schools-in-singapore-1960-2020.png)
 
 ## 1.3 Project Objective
 
@@ -98,14 +98,21 @@ To determine and measure the impact of closures/merges of primary schools and JC
 
 ## 1.5 Scope of Work
 
++------------------------------------------------------------------------+---------------------------+
 | **Theme**                                                              | **Person in Charge**      |
-|------------------------------------------------------------------------|---------------------------|
++========================================================================+===========================+
 | Selection of project focus and conducting literature review            | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 | Preparing proposal and project website                                 | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 | Data collection, extraction, integration, transformation and wrangling | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 | Designing and building GIS model and database                          | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 | Performing GIS analysis                                                | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 | Preparing poster and project webpage.                                  | Chevy, Swinnerton, Andrew |
++------------------------------------------------------------------------+---------------------------+
 
  
 
@@ -124,4 +131,6 @@ Others
 
 ## 1.6 Project schedule
 
-![](images/WhatsApp%20Image%202022-10-24%20at%2018.25.37.jpeg)\
+\
+
+![](images/schedule.JPG)
