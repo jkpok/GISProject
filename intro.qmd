@@ -11,6 +11,8 @@ Theme 2: Geography of Accessibility with GIS-based Network Analysis
 
 ## 1. Introduction & Project Motivation
 
+Github link: <https://github.com/jkpok/GISProject.git>
+
 QGIS project link: [SMT_Group5 (Final).zip](https://smu-my.sharepoint.com/:u:/g/personal/chevy_chan_2021_scis_smu_edu_sg/ERXhaaX0VBlGhIceHttCFzsBXltfShyKPOAFzcnQZPAcIQ?e=cgQAMO)
 
 ## 1.1 General Information on the Closure and Merger of Primary School and Junior College (JC)
