@@ -11,27 +11,94 @@ Theme 2: Geography of Accessibility with GIS-based Network Analysis
 
 -   Sub-theme 1: Impact of closures or mergers of education institutions on equity of access.
 
-## 1. Introduction & Project Motivation	
+## 1. Introduction & Project Motivation
 
-### 1.1 General Information on the Closure and Merger of Primary School and Junior College (JC)
+QGIS project link: [SMT_Group5 (Final).zip](https://smu-my.sharepoint.com/:u:/g/personal/chevy_chan_2021_scis_smu_edu_sg/ERXhaaX0VBlGhIceHttCFzsBXltfShyKPOAFzcnQZPAcIQ?e=cgQAMO)
 
-Singapore is widely known for its people having the 2nd highest IQ population in the world \<Citation\>. In recent years, due to an increase in the standard of living and quality of life in Singapore, and with the pressure of inflation that has affected people all around the world, the cost of living has been increasing significantly and this has caused many Singaporeans to avoid having offspring which caused Singapore\'s population to decline. 
+## 1.1 General Information on the Closure and Merger of Primary School and Junior College (JC)
 
-Therefore, with a decline in birth rate and a decrease in the population size for younger generations between the age of 0 to 6, the Ministry of Education of Singapore released a statement in 2018 that there will be 22 primary schools and xxxx JC that will either be merged or closed between 2018 to 2025 \<Citation\>. This is to ensure that the resources that the Ministry of Education have deployed will not be under-utilized while all students in primary schools will still have equal and high-quality access to education.
+Singapore is widely known for its people having the 2nd highest IQ population in the world (Worlddata.info, n.d.). In recent years, due to an increase in the standard of living and quality of life in Singapore, and with the pressure of inflation that has affected people all around the world, the cost of living has been increasing significantly and this has caused many Singaporeans to avoid having offspring which caused Singapore\'s population to decline. 
 
-\
+Therefore, with a decline in birth rate and a decrease in the population size for younger generations between the age of 0 to 6, the Ministry of Education of Singapore released a statement in 2018 that there will be 11 primary schools and 6 JC that will be closed between 2018 to 2025 as per our data preparation link (Ministry of Education Singapore, 2022). This is to ensure that the resources that the Ministry of Education have deployed will not be under-utilized while all students in primary schools will still have equal and high-quality access to education.
 
-### 1.2 Project Motivation
+**List of Primary School Closures we are studying**
+
+-   Balestier Hill Primary School
+
+-   Coral Primary School
+
+-   Da Qiao Primary School
+
+-   East Coast Primary School
+
+-   East View Primary School
+
+-   Eunos Primary School
+
+-   Guangyang Primary School
+
+-   Loyang Primary School
+
+-   MacPherson Primary School
+
+-   Pioneer Primary School
+
+-   Stamford Primary School
+
+**List of Junior College Closures we are studying**
+
+-   Innova Junior College
+
+-   Jurong Junior College
+
+-   National Junior College
+
+-   Serangoon Junior College
+
+-   Tampines Junior College
+
+-   Temasek Junior College
+
+## 1.2 Project Motivation
 
 Singapore has long been regarded as a success story about a small island without natural resources turned world-class metropolis in one generation. However despite the boon we experienced, or perhaps because of it, the birthrate has been declining to the extent where schools have to be closed. Our team is incredibly concerned about the consequences of Singapore's low birthrate which thus, led us to assess the impact of closures or mergers of education institutions on equity of access.
 
-### 1.3 Project Objective
+The chart below shows us that the number of primary schools has more than halved since 1990, which is incredibly concerning news.
+
+![](https://lh4.googleusercontent.com/YNRnNo8R83QxqkwJlhR1tExhqsEr5UzPOOgcE-qleLK6Y4_dsvBDQiNNsj6Qx-sE13AQgrDiUZFP2LZpjl2cnPXMwhK5VY_j-VI_Lxbmctx71dr822QM_T1EfLUY8lvk-eRVjOcKf6B_VvTjSIzKNfZ4CWzrzH__ZLK79bqumeUjqDqb4csLVIo4FOdDmQ)
+
+## 1.3 Project Objective
 
 To determine and measure the impact of closures/merges of primary schools and JC in Singapore from 2018 to 2025 towards Primary School and JC students and the equity of access to the remaining Primary Schools and JC in Singapore. 
 
-\
+## 1.4 Project Data
 
-### 1.4 Scope of Work
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **File name**                              | **Description**                                                                                         | **Source**                                                                                                                                                                                                                                                                                                                                 |
++============================================+=========================================================================================================+============================================================================================================================================================================================================================================================================================================================================+
+| Master Plan 2019 Subzone Boundary (No Sea) | Polygon layer of Singapore categorised by various sub-zones.                                            | <https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea>                                                                                                                                                                                                                                                                     |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Malaysia, Singapore, and Brunei            | Vector layers from Open Street map, which were used to identify the roads and traffic of Singapore      | <https://download.geofabrik.de/asia/malaysia-singapore-brunei.html>                                                                                                                                                                                                                                                                        |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Education                                  | A csv file containing the names of schools in Singapore and their locations                             | <https://elearn.smu.edu.sg/d2l/le/content/328735/viewContent/2062006/View>                                                                                                                                                                                                                                                                 |
+|                                            |                                                                                                         |                                                                                                                                                                                                                                                                                                                                            |
+|                                            |                                                                                                         | \                                                                                                                                                                                                                                                                                                                                          |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location of Primary School as at 2017      | A csv file containing the names of primary schools in Singapore and their locations                     | <https://data.world/hxchua/primary-schools-in-singapore>                                                                                                                                                                                                                                                                                   |
+|                                            |                                                                                                         |                                                                                                                                                                                                                                                                                                                                            |
+|                                            |                                                                                                         | \                                                                                                                                                                                                                                                                                                                                          |
+|                                            |                                                                                                         | \                                                                                                                                                                                                                                                                                                                                          |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Location of JC                             | A website to search for existing and closed JC                                                          | <https://geo.sg/gmaps/singapore-schools/show_data?utf8=%E2%9C%93&search=innova&button=#>                                                                                                                                                                                                                                                   |
+|                                            |                                                                                                         |                                                                                                                                                                                                                                                                                                                                            |
+|                                            |                                                                                                         | \                                                                                                                                                                                                                                                                                                                                          |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Primary Schools Closure and Mergers        | An article from MOE containing the annex of Primary Schools that are affected by the closure or merger. | [https://www.moe.gov.sg/-/media/files/news/press/2022/annex---names-of-schools-merging-between-2022-2025.ashx?la=en&hash=99BC8F6A971058F4AF09F1DEB1A16A1F0D9AB195](https://www.moe.gov.sg/-/media/files/news/press/2022/annex%E2%80%94names-of-schools-merging-between-2022-2025.ashx?la=en&hash=99BC8F6A971058F4AF09F1DEB1A16A1F0D9AB195) |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Geographic Distribution                    | Geographic Distribution of the Population Trends.                                                       | <https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/latest-data>                                                                                                                                                                                                                                     |
++--------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## 1.5 Scope of Work
 
 | **Theme**                                                              | **Person in Charge**      |
 |------------------------------------------------------------------------|---------------------------|
@@ -55,54 +122,9 @@ Others
 | Poster clean up                   | Chevy, Swinnerton, Andrew |
 | Metadata                          | Chevy, Swinnerton, Andrew |
 
-### 1.5 Project schedule
+ 
 
-![](https://lh6.googleusercontent.com/Adivn1Ow5oWBEt7qfINfhUUFzglU6RkSRGMyhS1zE2p0ld6_xqS5C4JqTd2phtJZNfF1k95n3edCO4-Gc7QWdbqJ57i7zh-FAmzK1-tUDTDAxupmKqFcf5krGMX50qt3PlNL98a-C3Gm1CHJ7gDUPbKDeHCuuq4JOL9gPJ_jROu1MLIIrPm9Y1FViw)
+## 1.6 Project schedule
 
-\
+![](images/WhatsApp%20Image%202022-10-24%20at%2018.25.37.jpeg)\
 
-For this project we will be looking at the impact of closures or mergers of education institutions on equity of access.
-
-## The tasks
-
-## Project Tasks\_
-
-The project tasks are as follows:
-
--   to compile the necessary data
-
--   to derive new data sets
-
-## The Data
-
-The following data sets will be used:
-
-The schools that closed down (the 4)
-
-# Closed School
-
-Due to low birth rate (url)
-
-Based on the Geographic Distribution, we are able derive from ....
-
-The specific subzones containing the primary schools which will be closing have shown a trend of declining birthrate from the year 2011 to 2020.
-
-## These are the schools that will be closed latest by 2025:
-
--   Eunos Primary School (Merge with Telok Kurau Primary School)
-
--   Guangyang Primary School (Townsville Primary School)
-
--   Pioneer Primary School (Merge with Juying Primary School but Pioneer name is retained)
-
--   Stamford Primary School (Farrer Park Primary School)
-
-# Merged School
-
-Farrer Park Primary School
-
-Juying Primary School
-
-Telok Kurau Primary School
-
-Townsville Primary School
