@@ -17,7 +17,7 @@ website:
         text: Results & Discussion
       - href: lesson.qmd
         text: Lesson Learned
-      - href: lesson.qmd
+      - href: images/poster.jpg
         text: Poster
       - href: report.qmd
         text: Report
